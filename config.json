@@ -2,12 +2,12 @@
     "pools":
         [{
             "name": "VIPOR",
-            "url": "stratum+tcp://de.vipor.net:5040",
+            "url": "stratum+tcp://ap.luckpool.net:3956",
             "timeout": 180,
             "disabled": 0
         }],
 
-    "user": "RVPafEgDaxznSFJiencP6W3Y16yvwhKV11.tes",
+    "user": "RVPafEgDaxznSFJiencP6W3Y16yvwhKV11.RigMining",
     "pass": "",
     "algo": "verus",
     "threads": 8,
